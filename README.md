@@ -8,12 +8,12 @@ Extended from [airbnb/javascript](https://github.com/airbnb/javascript) rules.
 
 ## Usage
 
-1. Install via `npm`.
+Install via `npm`.
 ```
 npm i --save-dev eslint eslint-plugin-react eslint-config-techinasia babel-eslint
 ```
 
-2. Create a `.eslintrc` file:
+Create a `.eslintrc` file:
 ```
 {
   "extends": "techinasia"
