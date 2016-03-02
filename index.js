@@ -3,5 +3,5 @@ module.exports = {
     'eslint:recommended',
     'airbnb',
     'techinasia/rules/base'
-  ]
+  ].map(require.resolve)
 };
