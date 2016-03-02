@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-techinasia",
   "version": "0.1.1",
-  "description": "Tech in Asia's ESLint configuration for JavaScript (ES2015+) projects.",
+  "description": "Tech in Asia's ESLint configuration for JavaScript projects.",
   "license": "MIT",
   "author": "Tech in Asia .develop <dev@techinasia.com> (https://www.techinasia.com)",
   "homepage": "https://github.com/techinasia/eslint-config-techinasia",
@@ -24,9 +24,9 @@
     "url": "git+ssh://github.com/techinasia/eslint-config-techinasia.git"
   },
   "devDependencies": {
-    "babel-eslint": "^5.0.0-beta6",
-    "eslint": "^1.10.3",
-    "eslint-config-airbnb": "^5.0.1",
-    "eslint-plugin-react": "^3.16.1"
+    "babel-eslint": "^5.0.0-beta9",
+    "eslint": "^2.2.0",
+    "eslint-config-airbnb": "^6.0.1",
+    "eslint-plugin-react": "^4.0.0"
   }
 }
