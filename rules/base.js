@@ -6,6 +6,7 @@ module.exports = {
     'max-len': [1, 100, 4, {
       ignoreComments: true,
       ignoreUrls: true
-    }]
+    }],
+    'react/prefer-stateless-function': 1
   }
 };

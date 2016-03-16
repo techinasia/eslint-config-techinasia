@@ -24,9 +24,9 @@
     "url": "git+ssh://github.com/techinasia/eslint-config-techinasia.git"
   },
   "devDependencies": {
-    "babel-eslint": "^5.0.0-beta9",
+    "babel-eslint": "^6.0.0-beta.6",
     "eslint": "^2.2.0",
-    "eslint-config-airbnb": "^6.0.1",
-    "eslint-plugin-react": "^4.0.0"
+    "eslint-config-airbnb": "^6.1.0",
+    "eslint-plugin-react": "^4.2.0"
   }
 }
