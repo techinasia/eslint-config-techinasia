@@ -23,10 +23,20 @@
     "type": "git",
     "url": "git+ssh://github.com/techinasia/eslint-config-techinasia.git"
   },
+  "dependencies": {
+    "eslint-config-airbnb": "^9.0.0"
+  },
   "devDependencies": {
-    "babel-eslint": "^6.0.0-beta.6",
-    "eslint": "^2.2.0",
-    "eslint-config-airbnb": "^6.1.0",
-    "eslint-plugin-react": "^4.2.0"
+    "babel-eslint": "^6.0.4",
+    "eslint": "^2.12.0",
+    "eslint-plugin-import": "^1.8.0",
+    "eslint-plugin-jsx-a11y": "^1.2.2",
+    "eslint-plugin-react": "^5.1.0"
+  },
+  "peerDependencies": {
+    "eslint": "^2.12.0",
+    "eslint-plugin-import": "^1.8.0",
+    "eslint-plugin-jsx-a11y": "^1.2.2",
+    "eslint-plugin-react": "^5.1.0"
   }
 }
