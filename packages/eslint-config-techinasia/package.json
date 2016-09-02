@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-techinasia",
-  "version": "0.6.0",
+  "version": "0.6.1",
   "description": "Tech in Asia's ESLint configuration for React projects.",
   "license": "MIT",
   "author": "Tech in Asia .develop <dev@techinasia.com> (https://www.techinasia.com)",
