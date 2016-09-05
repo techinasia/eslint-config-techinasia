@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-techinasia",
-  "version": "0.6.1",
+  "version": "0.7.0",
   "description": "Tech in Asia's ESLint configuration for React projects.",
   "license": "MIT",
   "author": "Tech in Asia .develop <dev@techinasia.com> (https://www.techinasia.com)",
@@ -25,7 +25,7 @@
   },
   "dependencies": {
     "eslint-config-airbnb": "^10.0.0",
-    "eslint-config-techinasia-base": "^0.2.0"
+    "eslint-config-techinasia-base": "^0.3.0"
   },
   "devDependencies": {
     "eslint": "^3.4.0",
