@@ -268,9 +268,9 @@ eslint-config-airbnb@^13.0.0:
   dependencies:
     eslint-config-airbnb-base "^10.0.0"
 
-eslint-config-techinasia-base@^0.6.0:
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/eslint-config-techinasia-base/-/eslint-config-techinasia-base-0.6.0.tgz#c25ef36c30e94952d8d05770c7c794f5d3c6f891"
+eslint-config-techinasia-base@^0.6.1:
+  version "0.6.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-techinasia-base/-/eslint-config-techinasia-base-0.6.1.tgz#a57801393bd63a490e0e6096ed52f78217dcc580"
   dependencies:
     eslint-config-airbnb-base "^11.0.0"
 

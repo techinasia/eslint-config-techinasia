@@ -1,7 +1,6 @@
 module.exports = {
   rules: {
     'arrow-parens': ['error', 'always'],
-    'comma-dangle': 0,
     indent: [2, 2, { SwitchCase: 1 }],
     'no-param-assign': 0,
     'no-underscore-dangle': 0,
