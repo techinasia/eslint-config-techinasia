@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-techinasia-base",
-  "version": "0.6.1",
+  "version": "0.6.2",
   "description": "Tech in Asia's base ESLint configuration for JavaScript projects.",
   "license": "MIT",
   "author": "Tech in Asia .develop <dev@techinasia.com> (https://www.techinasia.com)",
@@ -24,7 +24,7 @@
     "url": "git+ssh://git@github.com/techinasia/eslint-config-techinasia.git"
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "^11.0.0"
+    "eslint-config-airbnb-base": "^11.0.1"
   },
   "devDependencies": {
     "eslint": "^3.12.2",
