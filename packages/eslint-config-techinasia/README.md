@@ -1,6 +1,6 @@
 # eslint-config-techinasia
 
-[![npm version](https://badge.fury.io/js/eslint-config-techinasia.svg)](https://badge.fury.io/js/eslint-config-techinasiae)
+[![npm version](https://badge.fury.io/js/eslint-config-techinasia.svg)](https://badge.fury.io/js/eslint-config-techinasia)
 
 [Tech in Asia](https://www.techinasia.com)'s ESLint configuration for React projects.
 
